@@ -1,4 +1,4 @@
-package com.mdorici.challenge01.entities;
+package com.helio.challenge01.entities;
 
 public class Order {
 
